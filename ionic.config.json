@@ -1,0 +1,7 @@
+{
+  "name": "SampleKeyboardApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
